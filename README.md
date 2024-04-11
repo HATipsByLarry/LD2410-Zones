@@ -18,6 +18,7 @@ Step 6: rapeat steps 1 through 5 for your other sensors.
 
 Your automations can trigger based on what zone the person is in
 ![automation zones](https://github.com/HATipsByLarry/LD2410-Zones/assets/49766850/06d82486-14e8-41c8-b874-3062a86c064c)
+
 Thus if a light fixture is in zone 1 for example you can trigger the light to come on when someone is in that zone then trigger it to go off when they leave that zone.
 ![automation zones 2](https://github.com/HATipsByLarry/LD2410-Zones/assets/49766850/d2acf62f-b562-41b7-804a-d5e300043433)
 
