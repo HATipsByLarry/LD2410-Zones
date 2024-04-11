@@ -6,6 +6,7 @@ I often have people ask me how to set the zones up for the LD2410 series of mmWa
 Step 1: Measure the distance from the sensor to where you want zone 1 to end. Also do the same for zone 2 and zone 3.
 
 Step 2: In Home Assistant go to the sensors configuration page and scroll down until you find the configurations you see below.
+
 ![ld2410c zones distance](https://github.com/HATipsByLarry/LD2410-Zones/assets/49766850/eabc0fe5-1bcf-41be-8ef1-5da76bb94bcb)
 
 Step 3: in the Radar Max Move box type in the measurement you made for zone 1. This is in milimeters so if you measured in inches conert the measure first.
@@ -17,9 +18,11 @@ Step 5: Adjust the Radar max Move and Radar max Still distances to match the end
 Step 6: rapeat steps 1 through 5 for your other sensors.
 
 Your automations can trigger based on what zone the person is in
+
 ![automation zones](https://github.com/HATipsByLarry/LD2410-Zones/assets/49766850/06d82486-14e8-41c8-b874-3062a86c064c)
 
 Thus if a light fixture is in zone 1 for example you can trigger the light to come on when someone is in that zone then trigger it to go off when they leave that zone.
+
 ![automation zones 2](https://github.com/HATipsByLarry/LD2410-Zones/assets/49766850/d2acf62f-b562-41b7-804a-d5e300043433)
 
 Code For the LD2410C with zones https://github.com/HATipsByLarry/LD2410-Zones/blob/main/LD2410%20Code.yaml
