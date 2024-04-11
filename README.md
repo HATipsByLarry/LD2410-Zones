@@ -9,7 +9,7 @@ Step 2: In Home Assistant go to the sensors configuration page and scroll down u
 
 ![ld2410c zones distance](https://github.com/HATipsByLarry/LD2410-Zones/assets/49766850/eabc0fe5-1bcf-41be-8ef1-5da76bb94bcb)
 
-Step 3: Type in the Radar Max Move box type in the measurement you made for zone 1. This is in milimeters so if you measured in inches conert the measure first.
+Step 3: In the Radar Max Move box type in the measurement you made for zone 1. This is in milimeters so if you measured in inches conert the measure first.
 
 Step 4: Repeat step 3 for zone 2 and zone 3.
 
