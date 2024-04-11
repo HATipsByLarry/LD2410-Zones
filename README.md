@@ -13,7 +13,7 @@ Step 3: In the Radar Max Move box type in the measurement you made for zone 1. T
 
 Step 4: Repeat step 3 for zone 2 and zone 3.
 
-Step 5: Adjust the Radar max Move and Radar max Still distances to match the end of zone 3 or whereever you want the detection to end. Keep in mind theat this measurement is in meters so again convert your measurements to meters. The max is 8 meters.
+Step 5: Adjust the Radar max Move and Radar max Still distances to match the end of zone 3 or where ever you want the detection to end. Keep in mind theat this measurement is in meters so again convert your measurements to meters. The max is 8 meters.
 
 Step 6: rapeat steps 1 through 5 for your other sensors.
 
