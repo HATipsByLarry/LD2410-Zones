@@ -22,6 +22,8 @@ Your automations can trigger based on what zone the person is in
 Thus if a light fixture is in zone 1 for example you can trigger the light to come on when someone is in that zone then trigger it to go off when they leave that zone.
 ![automation zones 2](https://github.com/HATipsByLarry/LD2410-Zones/assets/49766850/d2acf62f-b562-41b7-804a-d5e300043433)
 
+Code For the LD2410C with zones https://github.com/HATipsByLarry/LD2410-Zones/blob/main/LD2410%20Code.yaml
+
 If anyone has questions about this then please ask them on my youtube channel here: https://www.youtube.com/watch?v=YNEQxj-JnEs
 
 Also on my discord channel here: https://discord.com/invite/9EkA5rFyCE
