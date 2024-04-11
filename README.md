@@ -27,3 +27,7 @@ Code For the LD2410C with zones https://github.com/HATipsByLarry/LD2410-Zones/bl
 If anyone has questions about this then please ask them on my youtube channel here: https://www.youtube.com/watch?v=YNEQxj-JnEs
 
 Also on my discord channel here: https://discord.com/invite/9EkA5rFyCE
+
+Found This Useful and want to say thanks
+___ ☕ Buy Me A Coffee! ☕ __ 
+https://www.buymeacoffee.com/hatipsbylarry
