@@ -15,7 +15,7 @@ Step 4: Repeat step 3 for zone 2 and zone 3.
 
 Step 5: Adjust the Radar max Move and Radar max Still distances to match the end of zone 3 or where ever you want the detection to end. Keep in mind that this measurement is in meters so again convert your measurements to meters. The max is 8 meters.
 
-Step 6: repeat steps 1 through 5 for your other sensors.
+Step 6: Repeat steps 1 through 5 for your other sensors.
 
 Your automations can trigger based on what zone the person is in
 
