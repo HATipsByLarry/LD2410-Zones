@@ -1,3 +1,9 @@
+i2c:
+  sda: 6
+  scl: 7
+  scan: true
+  id: bus_a
+
 uart:
   tx_pin: 01
   rx_pin: 03
