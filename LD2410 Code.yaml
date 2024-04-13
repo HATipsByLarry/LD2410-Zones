@@ -1,6 +1,6 @@
 i2c:
-  sda: 6
-  scl: 7
+  sda: 21
+  scl: 22
   scan: true
   id: bus_a
 
