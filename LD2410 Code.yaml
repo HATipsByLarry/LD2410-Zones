@@ -160,6 +160,11 @@ ld2410:
   id: ld2410_radar
   
 sensor:
+  - platform: bh1750
+    name: "Illuminance"
+    address: 0x23
+    update_interval: 15s
+
   - platform: ld2410
     moving_distance:
       name: Radar Moving Distance
